@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 ## 📱 Social Links
 
-- ✈️ [Telegram]((https://web.telegram.org/k/))
+- ✈️ [Telegram](t.me/seyemohsen)
 - 📧 [Email Me](mailto:1367smk@gmail.com)
 
 
