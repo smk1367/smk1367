@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
+
+- 🔭 I’m currently working on **network automation projects** using **Ansible** and **Docker**.  
+- 🌱 I’m currently learning **advanced container orchestration** and improving my skills in **DevOps pipelines**.  
+- 👯 I’m looking to collaborate on **open-source projects related to networking, Docker, and monitoring tools like Prometheus and Grafana**.  
+- 💬 Ask me about **network design, MikroTik, Docker Swarm, or CI/CD best practices**.  
+- 📫 How to reach me: **[1367smk@gmail.com]**.  
