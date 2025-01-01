@@ -14,6 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
+
+
+
 ---
 
 - 🔭 I’m currently working on **network automation projects** using **Ansible** and **Docker**.  
@@ -26,10 +34,28 @@ Here are some ideas to get you started:
 
 
 
+
+
+
+
+
 ## 📱 Social Links
 
 - ✈️ [Telegram](https://web.telegram.org)
 - 📧 [Email Me](mailto:1367smk@gmail.com)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
