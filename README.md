@@ -24,8 +24,28 @@ Here are some ideas to get you started:
 
 
 
+
+
 ## 📱 Social Links
 
 - ✈️ [Telegram](https://web.telegram.org)
 - 📧 [Email Me](mailto:1367smk@gmail.com)
 
+---
+
+## 💻 Tech Stack
+
+- **Languages**: Bash  
+- **Tools**: Docker, Kubernetes, Ansible  
+- **Version Control**: Git, GitHub  
+- **CI/CD**: GitLab CI  
+- **Monitoring**: Prometheus, Grafana  
+- **Containers**: Docker, Docker Compose, Helm  
+- **Others**: Nginx  
+- **Networking**:
+  - Cisco (Routers, Switches, Firewalls)  
+  - MikroTik (Routers, Switches, Wireless)  
+  - Fortigate (Firewalls)  
+  - The Dude (Network Management Tool)
+
+---
